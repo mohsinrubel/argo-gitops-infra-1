@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: todo-list
-          image: shihab24/todo-list:v35
+          image: shihab24/todo-list:v36
           imagePullPolicy: Always
           ports:
             - containerPort: 8000
